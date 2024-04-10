@@ -1,0 +1,6 @@
+  name: PlayerBlock
+  main: pt.playerblock.PlayerBlock
+  version: 1.0.0
+  commands:
+    blocos:
+      description: Use este comando para setar o numero de blocos do player.
